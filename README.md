@@ -37,7 +37,7 @@
 2. **Clone or Download the Project**  
    - Clone this repository or download the files.  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ritikjain07/WeatherLens.git
    ```
 
 3. **Move Project to XAMPP Directory**  
@@ -91,5 +91,10 @@
 - Create a dark mode for the UI.  
 
 ---
-
+## **Contact**  
+For queries or feedback, feel free to contact me:  
+**Ritik Jain**  
+📧 Email: [ritikjain4560@gmail.com](mailto:ritikjain4560@gmail.com)  
+📍 GitHub: [ritikjain07](https://github.com/ritikjain07)  
+---
 Enjoy using **WeatherLens – Focus on the Forecast!** 😊
